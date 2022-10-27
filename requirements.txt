@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+newspaper3k==0.2.8
+nltk<3.7
+Pillow==9.2.0
+streamlit==1.13.0
